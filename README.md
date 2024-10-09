@@ -1,4 +1,4 @@
-# E-Commerce Website 
+66666666666666666666666# E-Commerce Website 
 <img src="Frontend/src/Data/Images/logoShopping.png" alt="Logo" width="100" height="100"/>
 
 ## Table of Contents
@@ -87,8 +87,6 @@ https://bold-water-626360.postman.co/workspace/New-Team-Workspace~9544da7b-214c-
 ![Screenshot (292)_LI](https://github.com/user-attachments/assets/86784514-ea21-484a-b9c3-420b0fc318c3)
 
 ![Screenshot (292)](https://github.com/user-attachments/assets/5a310447-5739-4fa6-94e8-d477cd511eba)
-
-![Screenshot (293)](https://github.com/user-attachments/assets/01cf7f58-973a-4bb7-91d1-b235d24b8205)
 
 ![Screenshot (294)](https://github.com/user-attachments/assets/83a7c3b9-32ce-4c75-9c98-21d9f99bef6e)
 

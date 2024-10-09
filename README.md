@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * Introduction
-  * Features
+* Features
 * Technologies
 * Installation
 * Usage
@@ -24,29 +24,29 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
 
 ## Technologies
 * ### Frontend:
-* ReactJS
-* Axios (for API calls)
-* React Router (for navigation)
-* Material-UI (for styling)
-* Tailwind CSS
-* FlatIcon
-* Redux
+  * ReactJS
+  * Axios (for API calls)
+  * React Router (for navigation)
+  * Material-UI (for styling)
+  * Tailwind CSS
+  * FlatIcon
+  * Redux
 
-### Backend:
-* Spring Boot
-* Spring Security (for authentication)
-* JPA/Hibernate (for database interactions)
-* RESTful APIs
+* ### Backend:
+  * Spring Boot
+  * Spring Security (for authentication)
+  * JPA/Hibernate (for database interactions)
+  * RESTful APIs
 
-### Database:
-* MySQL
+* ### Database:
+  * MySQL
 
-### Languages:
-* Java
-* JavaScript
-* HTML
-* CSS
-* SQL
+* ### Languages:
+  * Java
+  * JavaScript
+  * HTML
+  * CSS
+  * SQL
 
 ## Installation
 ### Prerequisites

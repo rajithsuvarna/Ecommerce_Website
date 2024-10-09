@@ -3,7 +3,7 @@
 
 ## Table of Contents
 * Introduction
-* Features
+  * Features
 * Technologies
 * Installation
 * Usage

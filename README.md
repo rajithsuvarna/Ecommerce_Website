@@ -39,7 +39,7 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
   * <span style="color: green;">RESTful APIs</span>
 
 * ### Database:
-* <span style="color: green;">MySQL</span>
+  * <span style="color: green;">MySQL</span>
 
 * ### Languages:
   * <span style="color: green;">Java</span>

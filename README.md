@@ -23,7 +23,7 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
 * Responsive design for mobile and desktop
 
 ## Technologies
-### Frontend:
+* ### Frontend:
 * ReactJS
 * Axios (for API calls)
 * React Router (for navigation)

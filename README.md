@@ -2,51 +2,52 @@
 <img src="Frontend/src/Data/Images/logoShopping.png" alt="Logo" width="100" height="100"/>
 
 ## Table of Contents
-* Introduction
-* Features
-* Technologies
-* Installation
-* Usage
-* API Documentation
-* Contributing
-* License
+* <span style="color: blue;">Introduction</span>
+* <span style="color: blue;">Features</span>
+* <span style="color: blue;">Technologies</span>
+* <span style="color: blue;">Installation</span>
+* <span style="color: blue;">Usage</span>
+* <span style="color: blue;">API Documentation</span>
+* <span style="color: blue;">Contributing</span>
+* <span style="color: blue;">License</span>
 
 ## Introduction
 This is an eCommerce website built using Spring Boot for the backend and ReactJS for the frontend. The application allows users to browse products, add them to a cart, and complete purchases. The data is stored in a MySQL database.
 
 ## Features
-* User registration and authentication
-* Product listing and detail pages
-* Shopping cart functionality
-* Order processing and history
-* Admin panel for product management
-* Responsive design for mobile and desktop
+* <span style="color: green;">User registration and authentication</span>
+* <span style="color: green;">Product listing and detail pages</span>
+* <span style="color: green;">Shopping cart functionality</span>
+* <span style="color: green;">Order processing and history</span>
+* <span style="color: green;">Admin panel for product management</span>
+* <span style="color: green;">Responsive design for mobile and desktop</span>
 
 ## Technologies
 * ### Frontend:
-  * ReactJS
-  * Axios (for API calls)
-  * React Router (for navigation)
-  * Material-UI (for styling)
-  * Tailwind CSS
-  * FlatIcon
-  * Redux
+  * <span style="color: green;">ReactJS</span>
+  * <span style="color: green;">Axios (for API calls)</span>
+  * <span style="color: green;">React Router (for navigation)</span>
+  * <span style="color: green;">Material-UI (for styling)</span>
+  * <span style="color: green;">Tailwind CSS</span>
+  * <span style="color: green;">FlatIcon</span>
+  * <span style="color: green;">Redux</span>
 
 * ### Backend:
-  * Spring Boot
-  * Spring Security (for authentication)
-  * JPA/Hibernate (for database interactions)
-  * RESTful APIs
+  * <span style="color: green;">Spring Boot</span>
+  * <span style="color: green;">Spring Security (for authentication)</span>
+  * <span style="color: green;">JPA/Hibernate (for database interactions)</span>
+  * <span style="color: green;">RESTful APIs</span>
 
 * ### Database:
-  * MySQL
+* <span style="color: green;">MySQL</span>
 
 * ### Languages:
-  * Java
-  * JavaScript
-  * HTML
-  * CSS
-  * SQL
+  * <span style="color: green;">Java</span>
+  * <span style="color: green;">JavaScript</span>
+  * <span style="color: green;">HTML</span>
+  * <span style="color: green;">CSS</span>
+  * <span style="color: green;">SQL</span>
+
 
 ## Installation
 * ### Prerequisites

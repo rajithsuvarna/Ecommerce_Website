@@ -54,5 +54,7 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
   * Node.js (version 14 or higher)
   * MySQL server
 
+## API(PostMan)
+https://bold-water-626360.postman.co/workspace/New-Team-Workspace~9544da7b-214c-431e-a820-317f92d3cbb2/collection/23836321-68c4ab2c-fc59-4c39-9369-679f3fe7d174?action=share&creator=23836321
 
 

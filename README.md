@@ -42,11 +42,11 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
   * <span style="color: green;">MySQL</span>
 
 * ### Languages:
-  * <span style="color: green;">Java</span>
-  * <span style="color: green;">JavaScript</span>
-  * <span style="color: green;">HTML</span>
-  * <span style="color: green;">CSS</span>
-  * <span style="color: green;">SQL</span>
+  * 🚀 Java
+  * 🌐 JavaScript
+  * 📄 HTML
+  * 🎨 CSS
+  * 📊 SQL
 
 
 ## Installation

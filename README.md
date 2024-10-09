@@ -58,51 +58,51 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
 https://bold-water-626360.postman.co/workspace/New-Team-Workspace~9544da7b-214c-431e-a820-317f92d3cbb2/collection/23836321-68c4ab2c-fc59-4c39-9369-679f3fe7d174?action=share&creator=23836321
 
 ## Demo:
-![Screenshot (278)](https://github.com/user-attachments/assets/2c868201-a907-4d7d-a0ef-1e82c5e8ed8a)
+![Screenshot (278)](https://github.com/user-attachments/assets/c595c263-f618-4993-8de3-af6bc6648437)
 
-![Screenshot (279)](https://github.com/user-attachments/assets/7836ec98-c5e5-45a1-b8af-a5f5b037ff5b)
+![Screenshot (279)](https://github.com/user-attachments/assets/decb381a-8eb3-468b-850f-b9fd90d502b1)
 
-![Screenshot (280)](https://github.com/user-attachments/assets/498a53c1-cf23-407a-921c-db38d2ee0e2c)
+![Screenshot (280)](https://github.com/user-attachments/assets/c8ef92d6-1293-49ec-8f0a-6240fa9421c7)
 
-![Screenshot (281)](https://github.com/user-attachments/assets/3367bd2f-3525-4afb-ac69-9e3003bcab12)
+![Screenshot (281)](https://github.com/user-attachments/assets/81a9de87-afe2-4839-b7e2-f25dfb506d16)
 
-![Screenshot (282)](https://github.com/user-attachments/assets/8849f132-67ee-4592-8f76-0046a2581026)
+![Screenshot (282)](https://github.com/user-attachments/assets/34b3a7a9-e5cd-4e7b-97f7-0c3dff4e4e94)
 
-![Screenshot (283)](https://github.com/user-attachments/assets/00db0889-fc0a-4d83-948e-a6398f54128b)
+![Screenshot (283)](https://github.com/user-attachments/assets/760dcf85-aca2-4b6c-ad1e-9a5ceae6f51e)
 
-![Screenshot (284)](https://github.com/user-attachments/assets/ba89d488-32b9-47d0-970b-e3bc8193f2dc)
+![Screenshot (284)](https://github.com/user-attachments/assets/2ff38b50-82f6-4407-819b-352df9ce96dc)
 
-![Screenshot (285)](https://github.com/user-attachments/assets/3d026e15-9634-4e62-8ade-53c09e216388)
+![Screenshot (285)](https://github.com/user-attachments/assets/7fe5e88c-c605-47f9-b10d-e19159401bff)
 
-![Screenshot (286)](https://github.com/user-attachments/assets/a176b21c-80ad-45cb-ac25-91bef761b933)
+![Screenshot (286)](https://github.com/user-attachments/assets/70c8afe6-6483-4de7-85a5-b1672bd7e2f9)
 
-![Screenshot (287)](https://github.com/user-attachments/assets/41db42cb-d86c-44ca-8b59-aae9b4c8ef74)
+![Screenshot (287)](https://github.com/user-attachments/assets/61381c8f-555b-42d7-9cff-5dff66ee84fb)
 
-![Screenshot (288)](https://github.com/user-attachments/assets/5dece46e-02b9-4e8b-ad5b-29ca3833a7b7)
+![Screenshot (288)](https://github.com/user-attachments/assets/68b2e617-8ee1-44e1-a576-d246fae91f94)
 
-![Screenshot (289)](https://github.com/user-attachments/assets/ea9227d4-ac48-4948-810f-1ab1e5b89a83)
+![Screenshot (289)](https://github.com/user-attachments/assets/c3ca4fa3-45a6-4896-908a-2db050e7ae76)
 
-![Screenshot (290)](https://github.com/user-attachments/assets/db2166ea-b294-417c-80a3-c2c82e8c90e1)
+![Screenshot (290)](https://github.com/user-attachments/assets/8c15379d-70ca-4bc9-96bc-1438cc4bd4b2)
 
-![Screenshot (291)](https://github.com/user-attachments/assets/747be070-806f-4144-a8d7-b60df6fc2c67)
+![Screenshot (292)_LI](https://github.com/user-attachments/assets/86784514-ea21-484a-b9c3-420b0fc318c3)
 
-![Screenshot (292)](https://github.com/user-attachments/assets/2530ecf7-4312-4b1b-9853-3f6721819cf9)
+![Screenshot (292)](https://github.com/user-attachments/assets/5a310447-5739-4fa6-94e8-d477cd511eba)
 
-![Screenshot (293)](https://github.com/user-attachments/assets/f34186bd-17ae-4392-8192-672e0f4e680b)
+![Screenshot (293)](https://github.com/user-attachments/assets/01cf7f58-973a-4bb7-91d1-b235d24b8205)
 
-![Screenshot (294)](https://github.com/user-attachments/assets/e73409da-3fdb-4c89-8c62-04b6104dd66d)
+![Screenshot (294)](https://github.com/user-attachments/assets/83a7c3b9-32ce-4c75-9c98-21d9f99bef6e)
 
-![Screenshot (295)](https://github.com/user-attachments/assets/26e4ad4a-7c75-4905-80c7-28f69c1e04df)
+![Screenshot (295)](https://github.com/user-attachments/assets/dd8ebba7-5d1f-47bc-b94e-2e3512eda86c)
 
-![Screenshot (296)](https://github.com/user-attachments/assets/72ce96fe-13a2-4e82-93dc-67344f8d051c)
+![Screenshot (296)](https://github.com/user-attachments/assets/80c5b2b6-f6e7-41d1-9085-ccff11644c03)
 
-![Screenshot (297)](https://github.com/user-attachments/assets/2ebf87c6-edd3-40b8-9600-05e697207af6)
+![Screenshot (297)](https://github.com/user-attachments/assets/47d05a2c-0926-41a4-bf0e-088eefef999f)
 
-![Screenshot (298)](https://github.com/user-attachments/assets/5a8f66b0-2875-4ea9-b3bd-f391074739aa)
+![Screenshot (298)](https://github.com/user-attachments/assets/c24a342a-a1d4-4572-b5e9-1e6a473bd32d)
 
-![Screenshot (299)](https://github.com/user-attachments/assets/a7994d41-d480-4d10-a37c-28653a31423f)
+![Screenshot (299)](https://github.com/user-attachments/assets/6f830024-88da-4a53-a0bb-372f47188e04)
 
-![Screenshot (300)](https://github.com/user-attachments/assets/88694991-5e27-44ed-8731-5fdf960ed410)
+![Screenshot (300)](https://github.com/user-attachments/assets/6c1d4350-0cc3-4a3f-9947-d9ca3c8ef8a1)
 
-![Screenshot (301)](https://github.com/user-attachments/assets/fca58fb9-7683-4700-8317-818b8df72a84)
+![Screenshot (301)](https://github.com/user-attachments/assets/6bf68cef-30bd-4381-88fb-872d3da1cc33)
 

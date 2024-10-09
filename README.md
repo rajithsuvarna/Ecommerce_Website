@@ -2,9 +2,9 @@
 <img src="Frontend/src/Data/Images/logoShopping.png" alt="Logo" width="100" height="100"/>
 
 ## Table of Contents
-*Introduction
-*Features
-*Technologies
+* Introduction
+* Features
+* Technologies
 *Installation
 *Usage
 *API Documentation

@@ -24,7 +24,7 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
 
 ## Technologies
 * ### Frontend:
-* https://www.bing.com/images/blob?bcid=r4ApN4wKX5oHfwvsBmiKkFURSysM.....84
+* <img src="[Frontend/src/Data/Images/logoShopping.png](https://www.bing.com/images/blob?bcid=r4ApN4wKX5oHfwvsBmiKkFURSysM.....84)" alt="Logo" width="100" height="100"/>66
   * ReactJS
   * Axios (for API calls)
   * React Router (for navigation)

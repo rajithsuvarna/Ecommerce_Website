@@ -49,10 +49,10 @@ This is an eCommerce website built using Spring Boot for the backend and ReactJS
   * SQL
 
 ## Installation
-### Prerequisites
-* Java 11 or higher
-* Node.js (version 14 or higher)
-* MySQL server
+* ### Prerequisites
+  * Java 11 or higher
+  * Node.js (version 14 or higher)
+  * MySQL server
 
 
 
